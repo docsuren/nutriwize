@@ -1,4 +1,4 @@
-Nutriwize website, version 1.2
+Nutriwize website, version 1.3
 Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam. (c) 2026. All rights reserved.
 
 Upload every file in this folder to the top level of a GitHub repository named nutriwize, then turn on GitHub Pages.

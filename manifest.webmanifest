@@ -1,7 +1,7 @@
 {
  "name": "Nutriwize",
  "short_name": "Nutriwize",
- "description": "Estimate food energy and nutrients, calculate requirements and plan diverse 7-day Indian and Tamil meal charts. Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam.",
+ "description": "Estimate food energy and nutrients, calculate requirements and plan diverse 7-day Indian and Tamil meal charts. A WizeLabs initiative of WizeLabs Health. Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam.",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
